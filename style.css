@@ -1,3 +1,11 @@
-p{
+#box1 {
     color: red;
+}
+
+.box {
+    color: blue;
+}
+
+div {
+    color: green;
 }
